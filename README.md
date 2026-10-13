@@ -4,4 +4,4 @@ Hello, I am Prekshita, a B.Tech Computer Science and Engineering student at REVA
 
 - Learning Python
 - Interested in cloud computing
-- Goal: contribute to open source
+- Goal: contribute to open source.
