@@ -6,3 +6,4 @@ Hello, I am Prekshita, a B.Tech Computer Science and Engineering student at REVA
 - Interested in cloud computing
 - Goal: contribute to open source
 - Learning C++ programming
+- Interested in cloud computing
