@@ -17,3 +17,8 @@ This repository contains my portfolio work and documents my learning journey.
 **SRN:** R25EJ109  
 **Course:** B.Tech Computer Science and Engineering  
 **Semester:** 3rd Semester
+
+## My Learning Goals
+- Improve my problem-solving skills.
+- Practice C and C++ programming.
+- Learn data structures and algorithms.
