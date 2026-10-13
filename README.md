@@ -1,24 +1,7 @@
 # Prekshita
 
-Hello! I am Prekshita, a B.Tech Computer Science and Engineering student.
+Hello, I am Prekshita, a B.Tech Computer Science and Engineering student at REVA University. I am learning programming, data structures, and Git and GitHub. This repository documents my learning journey, practical activities, and technical skills.
 
-I am learning programming, data structures, and software development. This repository is created as part of my Portfolio Building Activity 03.
-
-## Skills and Interests
-- C Programming
-- C++ Programming
-- Python Programming
-- Git and GitHub
-
-## About This Repository
-This repository contains my portfolio work and documents my learning journey.
-
-**Name:** Prekshita  
-**SRN:** R25EJ109  
-**Course:** B.Tech Computer Science and Engineering  
-**Semester:** 3rd Semester
-
-## My Learning Goals
-- Improve my problem-solving skills.
-- Practice C and C++ programming.
-- Learn data structures and algorithms.
+- Learning Python
+- Interested in cloud computing
+- Goal: contribute to open source
